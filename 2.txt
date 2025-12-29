@@ -1,0 +1,7 @@
+# Guessing Game Project
+
+## Date and Time
+Sun Dec 28 14:28:53 UTC 2025
+
+## Number of lines in guessinggame.sh
+27 guessinggame.sh
